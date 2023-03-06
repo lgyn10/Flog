@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals",
+  "reat/react-in-jsx-scope": "off"
+}
